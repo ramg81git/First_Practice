@@ -10,14 +10,14 @@ char x;
 		Book b3= new Book(3,"Java");
 		Book b4= new Book();
 		
-	b1.book();	
+//	b1.Book();	
 	b1.Display();
 	b2.Display();
 	b3.Display();
 	x=b1.bookstatus();
 	
 	if  (x=='A')
-		System.out.println("book is available");
+		System.out.println("book is availablee");
 else
 System.out.println("book is not available");
 
