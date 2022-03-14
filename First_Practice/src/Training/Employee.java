@@ -42,7 +42,7 @@ public class Employee {
 	 void input() {
 		 
 		 Scanner scan1=new Scanner(System.in);
-		 System.out.println("whatsurname");
+		 System.out.println("whatsurnamegit");
 		 Ename=scan1.nextLine();
 	 }
 	 
