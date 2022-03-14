@@ -10,7 +10,7 @@ char x;
 		Book b3= new Book(3,"Java");
 		Book b4= new Book();
 		
-	b1.book();	
+	//b1.book();	
 	b1.Display();
 	b2.Display();
 	b3.Display();
